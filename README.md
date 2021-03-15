@@ -8,7 +8,7 @@ Purpose=
 the purpose of the myportfolio website is mainly to practice my skill and make a better version of it soon.
 Functionality / features=
 there  are 5  main features in this website home ,about,project,social and blog, every time you press one the this feature the will take you to different
-page and the page you are in will not specify where you are in the soon you press on of the features they dispear when you are in the page they represent.
+page and the page you are in will not specify where you are in the soon you press on of the features they dispear when you are in the page they represent. blog page different you can only acsess 4 blog pages from blog pages they are with in the sentance of it and you can move to all pages from this four blog pages but you can only move from home to blog page. 
 Sitemap=
 
 Screenshots=
