@@ -1,0 +1,154 @@
+html{
+
+
+    background: url(../images/background.jpeg) repeat center center fixed; 
+}
+.prof-box {
+    width: 400px;
+    height: 200px;
+    background-color: rgba(36, 235, 10, 0.514);
+    color: white;
+    margin: 0 auto;
+    margin-bottom: 100%;
+    text-align: center;
+}
+
+h1 {
+    font-weight: 100%;
+    letter-spacing: 6;
+    font-size: 50px;
+}
+p {
+    font-weight: 100;
+    letter-spacing: 1;
+}
+.line-break {
+ width: 300px;
+ margin: 0 auto;
+ border-top: 1px solid white;
+}
+.browser{
+    height: 10vh;
+    background: rgba(72, 88, 72, 0);
+
+}
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+.about{
+     width: 700px;
+    height: 20px solid rgb(255, 255, 255);
+    font-family: sans-serif;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 700px;
+    color: white;
+}
+.about {
+    margin-bottom: 20px;
+
+}
+.Description {
+    border-left: 5px solid #33f333;
+    padding-left: 5px;
+    color: white;
+    font-size: 20px;
+}
+.image-profile{
+    width: 100px;
+    height: auto fit-content;
+    display: inline;
+}
+
+.project-description {
+    border-left: 10px solid #33f333;
+    padding-left: 20px;
+    margin: 20px;
+    color: white;
+    height: 70px;
+}
+.project-description{
+    display: block;
+    margin-block-start: 3em;
+    margin-block-end: 2em;
+    margin-inline-start: 800px;
+    margin-inline-end: 50px;}
+.project {
+    height: 300px;
+    display: left;
+}
+.project img {
+    height: 100%; 
+    float: left;
+    padding: 90px;   
+}
+.social-icons {
+    width:100%;
+    margin-top: 150px;
+}
+.icons-name {
+   width: 100%;
+   height: auto;
+   margin: auto;
+   margin-top: 50px;
+}
+ul{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+ul li {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    background:white;
+    border-radius: 100%;
+    margin: 0px 10px;
+    font-size: 50px;
+    line-height: 100px;
+    display: inline-block;
+}
+.social-icons :hover {
+ color: rgb(65, 243, 11);   
+ 
+}
+.fa-linkedin{color: white;}
+.fa-facebook{color: white;}
+.fa-github{color: white;}
+
+.browser:hover{
+    color: rgb(80, 255, 57);
+}
+.browser {
+    font-size: 4vh;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(77, 196, 8);
+}
+.blog {
+    width: 700px;
+    height: 20px solid rgb(255, 255, 255);
+    font-family: sans-serif;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 700px;
+}
+.blog {
+    margin-bottom: 20px;
+
+}
+.paragraph {
+    border-left: 5px solid #33f333;
+    padding-left: 5px;
+    color: white;
+    height:60px;
+}
+h2{
+    color: white
+}
+:-webkit-any-link {
+    color:yellowgreen;
+    cursor: pointer;
+    text-decoration: underline;
+}

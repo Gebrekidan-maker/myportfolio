@@ -1,0 +1,26 @@
+.blog {
+    width: 700px;
+    height: 20px solid rgb(255, 255, 255);
+    font-family: sans-serif;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 700px;
+}
+.blog {
+    margin-bottom: 20px;
+
+}
+.paragraph {
+    border-left: 5px solid #33f333;
+    padding-left: 5px;
+    color: white;
+    height:60px;
+}
+h2{
+    color: white
+}
+:-webkit-any-link {
+    color:yellowgreen;
+    cursor: pointer;
+    text-decoration: underline;
+}

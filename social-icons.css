@@ -1,0 +1,41 @@
+.social-icons {
+    width:100%;
+    margin-top: 150px;
+}
+.icons-name {
+   width: 100%;
+   height: auto;
+   margin: auto;
+   margin-top: 50px;
+}
+ul{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+ul li {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    background:white;
+    border-radius: 100%;
+    margin: 0px 10px;
+    font-size: 50px;
+    line-height: 100px;
+    display: inline-block;
+}
+.social-icons :hover {
+ color: rgb(65, 243, 11);   
+ 
+}
+.fa-linkedin{color: white;}
+.fa-facebook{color: white;}
+.fa-github{color: white;}
+
+.back-back :hover{
+    color: rgb(80, 255, 57);
+}
+.back-back {
+    font-size: 4vh;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(77, 196, 8);}

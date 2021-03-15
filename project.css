@@ -1,0 +1,27 @@
+.image-profile{
+    width: 100px;
+    height: auto fit-content;
+    display: inline;
+}
+
+.project-description {
+    border-left: 10px solid #33f333;
+    padding-left: 20px;
+    margin: 20px;
+    color: white;
+    height: 70px;
+}
+.project-description{
+    display: block;
+    margin-block-start: 3em;
+    margin-block-end: 2em;
+    margin-inline-start: 800px;
+    margin-inline-end: 50px;}
+.project {
+    height: 300px;
+    display: left;
+}
+.project img {
+    height: 100%; 
+    float: left;
+    padding: 90px;   }
